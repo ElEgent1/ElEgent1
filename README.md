@@ -1,4 +1,6 @@
 ### Hi there 👋
+我是黄朝勇，来自福建莆田。
+喜欢羽毛球，摆烂，摸鱼，不喜欢上水课和形式主义。
 
 <!--
 **ElEgent1/ElEgent1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
